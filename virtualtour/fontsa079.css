@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Square721 BT";
+   src: url("fonts/Square721%20BT%20Bold.woff") format("woff"), url("fonts/Square721%20BT%20Bold.eot") format("embedded-opentype"), url("fonts/Square721%20BT%20Bold.ttf") format("truetype"), url("fonts/Square721%20BT%20Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Square721 BT";
+   src: url("fonts/Square721%20BT%20Roman.woff") format("woff"), url("fonts/Square721%20BT%20Roman.eot") format("embedded-opentype"), url("fonts/Square721%20BT%20Roman.ttf") format("truetype"), url("fonts/Square721%20BT%20Roman.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
